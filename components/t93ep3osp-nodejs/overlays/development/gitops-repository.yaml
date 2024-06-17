@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: t93ep3osp-nodejs-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/t93ep3osp-nodejs-gitops
